@@ -1,72 +1,53 @@
-## Olá  sou Sabrina ,bem-vindo ao meu site!👋
+# Olá, eu sou Sabrina. Bem-Vindo ao meu Perfil!👋
+Estudando _Desenvolvimento de Sistemas_ na Proz Educação. 
 
-  .|Home| 
-  .|Projetos| 
-  .|Linkedin|
-  .|Gmail|    
-  .|GitHub|
-   .|Blog|
-   .|Instagran| 
+# Formação
+- Ensino Médio Completo
 
-   Acesse Aqui     
-   
-    Formação Escolar 
-    .Ensino Médio Completo 
+## Interesses 
+- Informatica Básica
+- Secretariado 
+- Auxiliar de Escritório 
 
-      Formação Profissional  
-      
-      .Informatica Básica 
-      .Secretariado 
-      .Espanhol 
-      .Auxiliar de Escritório 
+## Idiomas: 
+- Espanhol
 
-       Hard Skills 
-        
-      . Python 
-      
-      .HTML 
+## Soft Skills:
+- Agilidade
+- Criatividade
 
-      . Javascript 
-      
-      . Java 
-.MYSQL
-.CSS 
-. Visual Studio Code 
-. Google Colab 
+<hr>
 
-      Solft Skills 
+## Linguagens de Programação
+<div  style="display: inline">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" />
+</div>
 
-     . Personalidade
-      .Agilidade 
-      .Criatividade 
+## Ferramentas Principais
 
-      
-                                                                                                       
-Projetos 
-FrontEnd :Blog 
+<div  style="display: inline">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60" />
+</div>
 
-Acesse Aqui 
+## Outras Ferramentas
 
-Programação Mobile 
+<div  style="display: inline">
+  
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-Acesse Aqui 
-     
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-        
-  	
-       
-         
-	 
-          
-	   
-            
-	    
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  
+</div>
 
-        
+## Contato
 
-      
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/sabrina-lacerda-677954330)  
 
 
 
