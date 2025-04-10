@@ -3,10 +3,13 @@
   .|Home| 
   .|Projetos| 
   .|Linkedin|
+  .|Gmail|    
+  .|GitHub|
+   .|Blog|
+   .|Instagran| 
 
-.|GitHub|
-.|Blog|
-
+   Acesse Aqui     
+   
     Formação Escolar 
     .Ensino Médio Completo 
 
@@ -34,9 +37,9 @@
       Solft Skills 
 
      . Personalidade
+      .Agilidade 
+      .Criatividade 
 
-.Agilidade 
-. Criatividade
       
                                                                                                        
 Projetos 
